@@ -1,0 +1,22 @@
+{
+  "name": "ace-combat-8-flight-toolkit",
+  "displayName": "Ace Combat 8 Flight Toolkit",
+  "programType": "flight-toolkit",
+  "repositoryContents": "Project documentation and artwork",
+  "downloadPage": "https://meteoric-rook-835.github.io/",
+  "descriptionSource": "Project owner",
+  "sections": [
+    "Aircraft groups",
+    "Control profiles",
+    "Session records"
+  ],
+  "topics": [
+    "ace-combat-8-flight-toolkit",
+    "ace-combat-8-tools",
+    "ace-combat-8-menu",
+    "ace-combat-8-settings",
+    "ace-combat-8-configs",
+    "ace-combat-8-aircraft-groups",
+    "ace-combat-8-control-profiles"
+  ]
+}
